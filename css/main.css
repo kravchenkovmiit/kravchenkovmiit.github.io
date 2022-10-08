@@ -298,13 +298,13 @@ section {
     color: var(--secondary);
     text-decoration: none;
 }
-.readmore-links {
-    color: var(--primary);
-    text-decoration: underline;
-}
-.readmore-links:hover {
-    color: var(--secondary);
+.portfolio-links {
+    color: var(--cta);
     text-decoration: none;
+}
+.portfolio-links:hover {
+    color: var(--secondary);
+    text-decoration: underline;
 }
 .row {
     margin: 12% -15px;
